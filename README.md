@@ -9,8 +9,8 @@
 
 ## About Praktikum
 
-Praktikum 1
-Nama : Nareswara Bayu Pratama
-NIM : G.231.23.0148
-Mata Kuliah : Pemrograman Framework
+Praktikum 1\_\_
+Nama : Nareswara Bayu Pratama\_\_
+NIM : G.231.23.0148\_\_
+Mata Kuliah : Pemrograman Framework\_\_
 Tanggal : 27 April 2025
